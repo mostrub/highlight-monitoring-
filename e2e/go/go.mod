@@ -7,7 +7,7 @@ toolchain go1.21.3
 replace github.com/highlight/highlight/sdk/highlight-go => ../../sdk/highlight-go
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.2
+	github.com/gofiber/fiber/v2 v2.52.5
 	github.com/highlight/highlight/sdk/highlight-go v0.10.2
 	github.com/labstack/echo/v4 v4.11.4
 	github.com/pkg/errors v0.9.1
@@ -43,7 +43,7 @@ require (
 	go.opentelemetry.io/proto/otlp v1.1.0 // indirect
 	golang.org/x/crypto v0.21.0 // indirect
 	golang.org/x/exp v0.0.0-20240222234643-814bf88cf225 // indirect
-	golang.org/x/net v0.22.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
 	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
